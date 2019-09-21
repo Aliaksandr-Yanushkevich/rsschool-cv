@@ -37,8 +37,8 @@
 - Codeacademy courses (HTML+CSS)
 - [Rolling Scopes Javascript / Frontend course](https://rs.school/js/) (not finished yet)
 
-  ***
+---
 
-  ## English
+## English
 
-  English (A2). I study English with a tutor. (March 2019-present)
+English (A2). I study English with a tutor. (March 2019-present)
