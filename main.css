@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  /* border: solid red 1px; */
+}
+
+main {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+body {
+  background-color: rgb(187, 241, 187);
+  /* max-width: 1024px; */
+  margin: 0 auto;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  width: minmax(900px, 1024px);
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+
+.photo {
+  justify-self: center;
+}
+
+.photo img {
+  width: 200px;
+}
