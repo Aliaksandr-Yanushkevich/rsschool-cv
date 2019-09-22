@@ -4,8 +4,8 @@
   "description": "[My CV](https://aliaksandr-yanushkevich.github.io/rsschool-cv/cv)",
   "main": "index.js",
   "scripts": {
-    "lh": "htmlhint *.html",
-    "lc": "stylelint *.css",
+    "lh": "htmlhint cv.html",
+    "lc": "stylelint main.css",
     "comb": "csscomb ./",
     "test": "npm run comb && npm run lh && npm run lc"
   },
